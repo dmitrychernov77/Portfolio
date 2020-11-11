@@ -10,13 +10,8 @@
 
 - Подготовка данных;
 - Графический анализ данных;
-- Создание моделей:
-    - Создание метрики;
-    - Первичное обучение модели CatBoost;
-    - Анализ признаков на основе Feature Importances;
-    - Подбор гиперпараметров для модели CatBoost с помощью GridSearch;
-    - Тестирование модели;
-    - Сравнение модели с Linear Regression, Decision Tree, Random Forest; 
+- Обучение и проверка модели LR для каждого региона;
+- Расчет прибыли и рисков техникой Bootstrap;
 - Общие выводы.
 
-### Инструменты: *pandas, numpy, sklearn, matplotlib, seaborn, catboost, gridsearch*
+### Инструменты: *pandas, numpy, sklearn, matplotlib, seaborn*
