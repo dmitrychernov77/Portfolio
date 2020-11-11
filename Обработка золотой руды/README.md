@@ -16,4 +16,4 @@
     - Сравнение с LR, Trees и RandomForest;
 - Общие выводы.
 
-### Инструменты: *pandas, numpy, sklearn, matplotlib, seaborn*
+### Инструменты: *pandas, numpy, sklearn, matplotlib, seaborn, catboost, gridsearch*
