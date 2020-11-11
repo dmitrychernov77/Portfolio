@@ -1,9 +1,10 @@
 # Портфолио Data Scientist
 
 ## Contacts: 
-*Dmitry Chernov*
-e-mail: *chernovds92@gmail.com*
-tel: *+7-(966)-182-00-90*
+
+- *Dmitry Chernov*
+- e-mail: *chernovds92@gmail.com*
+- tel: *+7-(966)-182-00-90*
 
 | Название проекта | Было сделано | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |

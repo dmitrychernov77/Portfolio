@@ -16,4 +16,4 @@
 - Тестирование модели;
 - Основные выводы.
 
-## Инструменты: *pandas, numpy, sklearn, matplotlib, seaborn* 
+### Инструменты: *pandas, numpy, sklearn, matplotlib, seaborn* 

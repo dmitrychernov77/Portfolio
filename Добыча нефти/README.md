@@ -19,4 +19,4 @@
     - Сравнение модели с Linear Regression, Decision Tree, Random Forest; 
 - Общие выводы.
 
-## Инструменты: *pandas, numpy, sklearn, matplotlib, seaborn, catboost, gridsearch*
+### Инструменты: *pandas, numpy, sklearn, matplotlib, seaborn, catboost, gridsearch*

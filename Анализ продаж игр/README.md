@@ -15,4 +15,4 @@
     - Составление портрета пользователя по регионам (Северная Америка, Европа, Япония);
 - Проверка гипотез.
 
-## Инструменты: *pandas, numpy, scipy, matplotlib, seaborn*
+### Инструменты: *pandas, numpy, scipy, matplotlib, seaborn*
